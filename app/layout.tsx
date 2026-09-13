@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     },
   ],
   creator: "Caleb Mmesoma",
-  metadataBase: new URL("https://caleb-mmesoma.vercel.app"),
+  metadataBase: new URL("https://caleb-portfolio-new.vercel.app"),
   openGraph: {
     title: "Caleb Mmesoma — Developer & Digital Product Builder",
     description:
